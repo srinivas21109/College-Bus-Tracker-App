@@ -11,16 +11,19 @@ Branding: It reinforces the app's branding, giving users an immediate visual con
   
 <li><b>Professional Look:</b> A well-designed splash screen enhances the professional look and feel of the app, making a good first impression on users.</li>
 </ul>
-Activity 2: Main Interface
-Description:
-
-Image: The main interface is more functional, featuring the same bus illustration at the top to maintain visual consistency. Below this, there are two prominent buttons labeled "DRIVER" and "STUDENT".
-Purpose: This screen serves as the primary gateway for users, allowing them to select their role (Driver or Student) to access specific features of the app.
-Functionality:
-Role Selection:
-Driver: Upon selecting "DRIVER", users are likely navigated to a screen where they can log in, view routes, track bus locations, and communicate with students.
-Student: Upon selecting "STUDENT", users can log in to see bus schedules, track bus locations in real-time, and receive notifications about bus arrivals and delays.
-Navigation: This screen simplifies navigation by clearly directing users to the appropriate sections of the app based on their role, ensuring a user-friendly experience.
+<H2>Activity 2: Main Interface</H2>
+<b>Description:</b><br>
+<ul>
+<li><b>Image:</b> The main interface is more functional, featuring the same bus illustration at the top to maintain visual consistency. Below this, there are two prominent buttons labeled "DRIVER" and "STUDENT".</li>
+<li><b>Purpose:</b> This screen serves as the primary gateway for users, allowing them to select their role (Driver or Student) to access specific features of the app.
+Functionality:</li>
+<li><b>Role Selection:</b>
+  <ul>
+<li><b>Driver:</b> Upon selecting "DRIVER", users are likely navigated to a screen where they can log in, view routes, track bus locations, and communicate with students.</li>
+<li><b>Student:</b> Upon selecting "STUDENT", users can log in to see bus schedules, track bus locations in real-time, and receive notifications about bus arrivals and delays.</li>
+<li><b>Navigation:</b> This screen simplifies navigation by clearly directing users to the appropriate sections of the app based on their role, ensuring a user-friendly experience.</li>
+  </ul>
+</ul>
 ![Splash_Screen_And_Home_screen](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/eda99255-0792-4c90-a24b-583ea3eb9610)
 
 ![Driver_registration](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/90b3ace6-efc1-4fb9-86f3-5466fae82cec)
