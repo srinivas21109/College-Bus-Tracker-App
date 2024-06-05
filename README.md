@@ -59,6 +59,7 @@ Purpose: This screen allows users to select their role within the app, directing
 </ul>
 </ul>
 <br></br>
+
 ![Driver_registration](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/90b3ace6-efc1-4fb9-86f3-5466fae82cec)
 
 <H2>Bus Location Tracking Screen</H2>
@@ -90,6 +91,7 @@ Functionality:</li>
 </ul>
 </ul>
 <br></br>
+
 ![MAP_and_About _info](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/62db10b7-9b8a-49ff-bb06-f021f4149cd0)
 
 
