@@ -58,7 +58,30 @@ Purpose: This screen allows users to select their role within the app, directing
 <li><b>Navigation:</b> After successful registration, the driver is likely redirected to their dashboard where they can manage their routes, check schedules, and track bus locations.</li>
 </ul>
 </ul>
+
 ![Driver_registration](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/90b3ace6-efc1-4fb9-86f3-5466fae82cec)
+
+<H2>Activity 5: Bus Location Tracking Screen</H2>
+<b>Description:</b><br>
+
+Image: This screen displays a map with various points of interest marked, including locations relevant to the college (e.g., Vignan boys hostel, Vignan Gym, etc.). There is a floating action button (FAB) with an icon, and a menu in the top right corner with options "Route," "Share," and "About."
+Purpose: This screen is designed for both drivers and students to track the real-time location of the buses.
+Functionality:
+Map View: The primary feature is the map, which shows the current location of the user and the buses.
+Floating Action Button (FAB): The button likely provides quick access to additional features or tools (e.g., refresh the map, locate the nearest bus, etc.).
+Menu Options:
+Route: This option could display the bus routes on the map, helping users see the path the bus will take.
+Share: This option may allow users to share their location or the bus location with others via social media or messaging apps.
+About: This option navigates users to the About Screen, providing information about the app.
+Activity 6: About Screen
+Description:
+
+Image: This screen provides information about the app. It features the app logo, the app name ("VBT_APP Bus Tracker"), version number ("v1.0"), and a note that it was developed by "BATCH 10". There is also a link labeled "My Website."
+Purpose: This screen is designed to give users information about the app and its developers.
+Functionality:
+App Information: It displays the app's name, version, and development details.
+Developer Credit: It credits the development team, "BATCH 10."
+Website Link: The "My Website" link likely directs users to an external website for more information, support, or related services.
 
 ![MAP_and_About _info](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/62db10b7-9b8a-49ff-bb06-f021f4149cd0)
 
