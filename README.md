@@ -29,7 +29,7 @@
 <br></br>
   
 ![Splash_Screen_And_Home_screen](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/eda99255-0792-4c90-a24b-583ea3eb9610)
-
+<br></br>
 <H2>Role Selection Screen</H2>
 <b>Description:</b><br> 
 <ul>
@@ -58,7 +58,7 @@ Purpose: This screen allows users to select their role within the app, directing
 <li><b>Navigation:</b> After successful registration, the driver is likely redirected to their dashboard where they can manage their routes, check schedules, and track bus locations.</li>
 </ul>
 </ul>
-
+<br></br>
 ![Driver_registration](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/90b3ace6-efc1-4fb9-86f3-5466fae82cec)
 
 <H2>Bus Location Tracking Screen</H2>
@@ -89,7 +89,7 @@ Functionality:</li>
 <li><b>Website Link:</b> The "My Website" link likely directs users to an external website for more information, support, or related services.</li>
 </ul>
 </ul>
-
+<br></br>
 ![MAP_and_About _info](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/62db10b7-9b8a-49ff-bb06-f021f4149cd0)
 
 
