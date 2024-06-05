@@ -47,7 +47,7 @@ Purpose: This screen allows users to select their role within the app, directing
 <ul>
 <li><b>Image:</b> This screen is displayed when the "DRIVER" button is selected from the Role Selection Screen. It features several input fields and a "REGISTER" button at the bottom.</li>
 <li><b>Purpose:</b> This screen is designed for drivers to register their details in the app. It collects essential information required to create a driver profile.</li>
-<li><b>Functionality:</b><li>
+<li><b>Functionality:</b></li>
   <ul>
 <li><b>Input Fields:</b> The screen has multiple fields for the driver to enter their details:</li>
 <li><b>Name:</b> The driver's name.</li>
