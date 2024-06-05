@@ -7,7 +7,7 @@
 <li><b>Purpose:</b> This initial screen serves as an introductory splash screen that appears when the app is launched. It typically lasts for a few seconds before transitioning to the main interface.</li>
 <li><b>Functionality:</b></li>
   <ul>
-<li>Branding: It reinforces the app's branding, giving users an immediate visual connection to the app's purpose.</li>
+<li><b>Branding:</b> It reinforces the app's branding, giving users an immediate visual connection to the app's purpose.</li>
 <li><b>Loading Indicator:</b></li> It provides a buffer time while the app loads necessary resources in the background.
 <li><b>Professional Look:</b> A well-designed splash screen enhances the professional look and feel of the app, making a good first impression on users.</li>
 </ul>
