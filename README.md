@@ -89,6 +89,7 @@ Functionality:</li>
 <li><b>Website Link:</b> The "My Website" link likely directs users to an external website for more information, support, or related services.</li>
 </ul>
 </ul>
+
 ![MAP_and_About _info](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/62db10b7-9b8a-49ff-bb06-f021f4149cd0)
 
 
