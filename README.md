@@ -16,6 +16,7 @@ Branding: It reinforces the app's branding, giving users an immediate visual con
 <ul>
 <li><b>Image:</b> The main interface is more functional, featuring the same bus illustration at the top to maintain visual consistency. Below this, there are two prominent buttons labeled "DRIVER" and "STUDENT".</li>
 <li><b>Purpose:</b> This screen serves as the primary gateway for users, allowing them to select their role (Driver or Student) to access specific features of the app.</li>
+  <ul>
 <li><b>Functionality:</b></li>
   <ul>
 <li><b>Role Selection:</b></li>
@@ -25,7 +26,7 @@ Branding: It reinforces the app's branding, giving users an immediate visual con
 <li><b>Navigation:</b> This screen simplifies navigation by clearly directing users to the appropriate sections of the app based on their role, ensuring a user-friendly experience.</li>
   </ul>
 </ul>
-
+  </ul>
 
 ![Splash_Screen_And_Home_screen](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/eda99255-0792-4c90-a24b-583ea3eb9610)
 
