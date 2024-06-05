@@ -16,8 +16,7 @@ Branding: It reinforces the app's branding, giving users an immediate visual con
 <ul>
 <li><b>Image:</b> The main interface is more functional, featuring the same bus illustration at the top to maintain visual consistency. Below this, there are two prominent buttons labeled "DRIVER" and "STUDENT".</li>
 <li><b>Purpose:</b> This screen serves as the primary gateway for users, allowing them to select their role (Driver or Student) to access specific features of the app.</li>
-
-  <li><b>Functionality:</b></li>
+<li><b>Functionality:</b></li>
   <ul>
 <li><b>Role Selection:</b></li>
   <ul>
