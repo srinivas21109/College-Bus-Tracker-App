@@ -24,6 +24,7 @@ Functionality:</li>
 <li><b>Navigation:</b> This screen simplifies navigation by clearly directing users to the appropriate sections of the app based on their role, ensuring a user-friendly experience.</li>
   </ul>
 </ul>
+
 ![Splash_Screen_And_Home_screen](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/eda99255-0792-4c90-a24b-583ea3eb9610)
 
 ![Driver_registration](https://github.com/srinivas21109/College-Bus-Tracker-App/assets/119849011/90b3ace6-efc1-4fb9-86f3-5466fae82cec)
